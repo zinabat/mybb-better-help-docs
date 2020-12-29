@@ -12,7 +12,7 @@ function betterhelpdocs_info()
         "website"       => "https://github.com/zinabat/mybb-better-help-docs",
         "author"        => "Zina Ramirez",
         "authorsite"    => "https://www.linkedin.com/in/zina-ramirez-7125bb90/",
-        "version"       => "0.0",
+        "version"       => "1.0",
         "guid"          => "",
         "codename"      => "betterhelpdocs",
         "compatibility" => "18*"
